@@ -1,0 +1,22 @@
+/* CSS Document */
+body{
+font-family:Arial;
+background:#0f172a;
+color:white;
+padding:20px;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+td,th{
+border:1px solid gray;
+padding:6px;
+}
+
+button{
+padding:8px 12px;
+margin:5px;
+}
